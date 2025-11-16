@@ -8,4 +8,4 @@
 
 **Snake Short:**  
 
-![Demo](src/video/snake.gif)
+![Demo](src/SNAKE.gif)
