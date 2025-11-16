@@ -8,4 +8,4 @@
 </pre>
 
 **Snake Short:**  
-<img src="https://i.imgur.com/VX03yDv.png" width="370" alt="Snake Animation">
+<img src="https://i.imgur.com/VX03yDv.png" width="500" alt="Snake Animation">
