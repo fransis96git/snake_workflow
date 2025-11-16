@@ -8,4 +8,4 @@
 
 **Snake Short:**  
 
-![Demo](src/SNAKE.gif)
+<img src="https://github.com/fransis96git/snake_workflow/blob/main/src/SNAKE.gif">
