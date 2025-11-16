@@ -8,4 +8,4 @@
 
 **Snake Short:**  
 
-<video src="src/video/snake.mp4" autoplay loop muted width="400"></video>
+![Demo](src/video/snake.gif)
